@@ -1,0 +1,35 @@
+@media (min-width: 1200px) {
+  .carousel img {
+    height: 100vh;
+  }
+}
+
+.carousel .carousel-caption {
+  text-align: left;
+}
+
+.carousel span {
+  font-size: 0.875rem;
+}
+
+.carousel button {
+  line-height: 2;
+}
+
+.navbar {
+  font-weight: bold;
+}
+
+.navbar .navbar-brand img {
+  max-width: 150px;
+}
+
+.page-item span {
+  font-weight: bold;
+  text-align: center;
+}
+
+.page-item a {
+  height: 100%;
+}
+/*# sourceMappingURL=main.css.map */

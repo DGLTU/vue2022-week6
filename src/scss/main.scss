@@ -1,0 +1,33 @@
+.carousel{
+    @media(min-width:1200px){
+        img{
+            height:100vh;
+        }
+    }
+    .carousel-caption{
+        text-align: left;
+    }
+    span{
+        font-size: 0.875rem;
+    }
+    button{
+        line-height:2;
+    }
+}
+.navbar{
+    font-weight: bold;
+    .navbar-brand{
+        img{
+            max-width: 150px;
+        }
+    }
+}
+.page-item{
+    span{
+      font-weight: bold;
+      text-align: center;
+    }
+    a{
+        height: 100%;
+    }
+}

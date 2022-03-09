@@ -1,10 +1,9 @@
 <template>
-  <router-view name="Nav"/>
-  <router-view />
+    <h1>This is an Admin page</h1>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'Admin'
 }
 </script>

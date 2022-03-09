@@ -1,10 +1,11 @@
 <template>
-  <router-view name="Nav"/>
-  <router-view />
+    <div>
+        this is login
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'Login'
 }
 </script>
